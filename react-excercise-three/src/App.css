@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.App section {
+  margin: 50px auto;
+  background-color: grey;
+  padding: 9px;
+  text-align: center;
+  width: 600px;
+}
+
+.App .div-container {
+  margin: 0 auto;
+  width: 440px;
+}
+
+.App .div-container p {
+  text-align: left;
+}
